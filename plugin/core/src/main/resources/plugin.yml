@@ -1,0 +1,10 @@
+name: BaseRaidCore
+version: 1.0
+author: JulianFun123
+main: eu.baseraid.core.BaseRaidPlugin
+
+commands:
+  setloc:
+    description: SPAST
+  build:
+    description: HUND
